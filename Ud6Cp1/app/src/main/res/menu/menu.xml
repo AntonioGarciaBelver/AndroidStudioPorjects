@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/add_item"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/add_elemento"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/grid"
+        android:icon="@android:drawable/ic_dialog_dialer"
+        android:title="@string/add_elemento"
+        app:showAsAction="ifRoom"
+        android:visible="false"/>
+    <item
+        android:id="@+id/list"
+        android:icon="@drawable/lista"
+        android:title="@string/add_elemento"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+</menu>

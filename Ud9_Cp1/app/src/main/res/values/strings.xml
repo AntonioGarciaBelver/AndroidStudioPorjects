@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ud9_Cp1</string>
+    <string name ="Texto"> Texto de prueba </string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_realizado_correctamente">Login realizado correctamente</string>
+</resources>

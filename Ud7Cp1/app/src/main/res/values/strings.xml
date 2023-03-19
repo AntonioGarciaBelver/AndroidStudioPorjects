@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EjemploIntent</string>
+    <string name="bienvenido">Bienvenido a esta app</string>
+    <string name="nombre">Nombre</string>
+    <string name="CP">Código Postal</string>
+    <string name="enviar">Enviar</string>
+    <string name="cambiarNombre">CAMBIAR NOMBRE</string>
+    <string name="cambiarCP">CAMBIAR CP</string>
+</resources>
